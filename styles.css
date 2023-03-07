@@ -1,19 +1,25 @@
 body {
+    background-color: #eff9f5;
     margin: 0;
     text-align: center;
-    font-family: 'Merriweather', serif;
+    font-family: 'Merriweather', sans-serif;
 }
 
 h1 {
-    margin: 0;
-    font-family: 'Sacramento', cursive;
+    margin: 50px auto 0 auto;
+    font-size: 5rem;
+    font-family: 'Sacramento';
+}
+p {
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
 }
 
-h2{
+h2 h3 {
     font-family: 'Montserrat', sans-serif;
 }
 .top-container{
-    background-color: #eff9f5;
     position: relative;
     padding-top: 100px;
 }
