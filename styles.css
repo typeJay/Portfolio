@@ -1,7 +1,23 @@
-body{
-    background-color: black;
+body {
+    margin: 0;
 }
 
-h1{
-    color:white;
+h1 {
+    margin: 0;
+}
+
+.top-container{
+    background-color: #eff9f5;
+}
+
+.middle-container{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom-container{
+    background-color: red;
+    width: 200px;
+    height: 200px;
 }
